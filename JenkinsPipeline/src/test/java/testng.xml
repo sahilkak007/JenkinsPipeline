@@ -3,6 +3,8 @@
   <test name="Test">
     <classes>
       <class name="TestScripts.LoginTC"/>
+       <class name="TestScripts.LoginTC2"/>
+        
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
